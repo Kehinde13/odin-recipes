@@ -16,4 +16,15 @@
 -Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
 ## Links
--
+- live Site: [odin-recipes](https://kehinde13.github.io/odin-recipes/)
+
+## Built with
+- Semantic HTML5 markup
+
+## What i learned 
+- I refreshed mt basic html5 knowledge
+
+## Author
+- Email: [Kehinde Balogun](www.balogunkehinde3@gmail.com)
+- LinkedIn - [Balogun Kehinde](linkedin.com/in/kehinde-balogun-9a1078223)
+
