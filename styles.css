@@ -1,0 +1,16 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #deb887;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.jollof {
+    width: 300px;
+    height: auto;
+}
+
